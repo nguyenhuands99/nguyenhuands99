@@ -22,8 +22,7 @@ Here are some ideas to get you started:
 
 - 🎓 I'm a fresh graduate from University of Science - Vietnam. 
 
-- 🖥 I'm coding daily with Python on my Linux machine, which sometimes helps me shoot myself in the foot in a very efficient way. 🔫🦶
+- 🖥 I'm coding daily with Python on my Linux machine, which sometimes helps me shoot myself in the foot in a very efficient way. 🦶🔫
 
-- 🧠 I love building things with programming, seeing insights through data, then iterate back and forth.
+- 🧠 I love building useful things with programming, acknowledging the art of software and data solutions, watching dataflows, finding insights through data, then iterate back and forth.
 
-- 🤷‍♂️ Internet is a scary thing then I must learn to understand it, so does AI/ML. 🤣
