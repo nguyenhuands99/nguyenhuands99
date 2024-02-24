@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 
 - ♂  I'm Huan Nguyen (some of my clones: [Linkedin](https://www.linkedin.com/in/nguyenhuands99/), [Twitter](https://www.twitter.com/nguyenhuands99) and also my open ports: [Gmail](mailto:nguyenhuands99@gmail.com), [Outlook](mailto:nguyenhuands99@outlook.com))
 
-- 🎓 I'm a fresh graduate from University of Science - Vietnam. 
+- 🎓 I'm an ~fresh graduate from University of Science - Vietnam~ ordinary developer who loves to try new ordinary things with software. 
 
-- 🖥 I'm coding daily with Python on my Linux machine, which sometimes helps me shoot myself in the foot in a very efficient way. 🦶🔫
+- 🖥 I'm coding daily with ~Python on my Linux machine, which sometimes helps me shoot myself in the foot in a very efficient way. 🦶🔫~ Typescript/C# in my at-work persona and code in whatever language I'm interested in my local machine.
 
 - 🧠 I love building useful things with programming, acknowledging the art of software and data solutions, watching dataflows, finding insights through data, then iterate back and forth.
 
