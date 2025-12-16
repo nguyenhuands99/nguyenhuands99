@@ -14,10 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="#">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=nguyenhuands99&show_icons=true&theme=dark">
-</a>
-
 - ♂  I'm Huan Nguyen (some of my clones: [Linkedin](https://www.linkedin.com/in/nguyenhuands99/), [Twitter](https://www.twitter.com/nguyenhuands99) and also my open ports: [Gmail](mailto:nguyenhuands99@gmail.com), [Outlook](mailto:nguyenhuands99@outlook.com))
 
 - 🎓 I'm an ~fresh graduate from University of Science - Vietnam~ ordinary developer who loves to try new ordinary things with software. 
